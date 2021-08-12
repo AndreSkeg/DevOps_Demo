@@ -1,3 +1,4 @@
 1st line of code
 2nd line of code, first line of new feature
 3nd line of code, modified after merge conflict
+2nd line of code 
