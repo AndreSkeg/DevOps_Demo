@@ -1,5 +1,7 @@
 1st line of code
 2nd line of code, first line of new feature
-2nd line of code, modified after merge conflict
+3nd line of code, modified after merge conflict
 2nd line of code
-3rd line of code
+main is moving along
+Main has been updated
+Test other stuff
